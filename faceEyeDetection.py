@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 17 22:31:47 2018
-
-@author: Rahul kumar
-"""
 
 import numpy as np
 import cv2
